@@ -5,20 +5,19 @@ My first repository.
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+### Project Title
 
-*Hello World Sample* 
+**Hello World** 
 
-## Description
+### Description
 
-This is a sample respository for me to learn more.
+Hello World is a sample to practice and get used to using repositories.
 
-## Files Used 
+### Files Used 
 
 - Did you use any datafiles?  
 - List filenames
@@ -30,9 +29,9 @@ This is a sample respository for me to learn more.
   
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+No additional *documentation* at this time.
 
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+No *Version* information at this time.
