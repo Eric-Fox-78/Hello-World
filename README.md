@@ -1,5 +1,5 @@
 # Hello-World
-==My first repository.==
+*My first repository.*
 
 ## Table of contents
 
@@ -11,7 +11,7 @@
 
 ### Project Title
 
-**Hello World** 
+#**Hello World** 
 
 ### Description
 
@@ -24,7 +24,7 @@ Hello World is a sample to practice and get used to using repositories.
 - From:
 - File contents
 - ~~Datafile considerations~~
-- ==URL== links to files
+- URL links to files
 
   
 ## Additional Documentation
