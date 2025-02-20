@@ -1,5 +1,5 @@
 # Hello-World
-My first repository.
+==My first repository.==
 
 ## Table of contents
 
@@ -19,12 +19,12 @@ Hello World is a sample to practice and get used to using repositories.
 
 ### Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files
+- Data files used
+- Filenames
+- From:
+- File contents
+- ~~Datafile considerations~~
+- ==URL== links to files
 
   
 ## Additional Documentation
